@@ -1,0 +1,14 @@
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.csproj.AssemblyReference.cache
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\GitHub Projects\DIO\XP Inc - Fullstack\TDD\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
